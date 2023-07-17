@@ -1,4 +1,7 @@
-public class NumberPattern {
+import java.util.*;
+
+
+public class Program2 {
     public static void main(String args[]){
         int row,i,j;
         Scanner sc=new Scanner(System.in);
