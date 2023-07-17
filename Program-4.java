@@ -1,4 +1,4 @@
-package Program
+package Program;
 import java.util.*;
 class OccuranceInteger{
 @SuppressWarnings("unchecked")
